@@ -90,7 +90,7 @@
 									<div class="item">
 										<div class="brandBox">
 											<div class="brandImg"><img src="images/brand-5.jpg"></div>
-											<span class="brandName">Bumble Bee</span>
+											<span class="brandName">Bumbleaa Bee</span>
 										</div>
 									</div>
 								</div>
